@@ -6,7 +6,8 @@
 #
 
 DIRS = 	lib \
-	fileio
+	fileio \
+	proc
 
 
 BUILD_DIRS = ${DIRS}
