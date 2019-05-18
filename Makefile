@@ -7,7 +7,9 @@
 
 DIRS = 	lib \
 	fileio \
-	proc
+	proc \
+	users_groups \
+	proccred
 
 
 BUILD_DIRS = ${DIRS}
