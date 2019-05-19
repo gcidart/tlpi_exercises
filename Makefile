@@ -9,7 +9,8 @@ DIRS = 	lib \
 	fileio \
 	proc \
 	users_groups \
-	proccred
+	proccred \
+	sysinfo
 
 
 BUILD_DIRS = ${DIRS}
