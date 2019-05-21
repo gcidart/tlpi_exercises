@@ -10,7 +10,8 @@ DIRS = 	lib \
 	proc \
 	users_groups \
 	proccred \
-	sysinfo
+	sysinfo \
+	filebuff
 
 
 BUILD_DIRS = ${DIRS}
@@ -26,6 +27,5 @@ all:
 allgen: 
 	@ for dir in ${BUILD_DIRS}; do (cd $${dir}; ${MAKE} allgen) ; done
 
-clean: 
+clean:
 	@ for dir in ${BUILD_DIRS}; do (cd $${dir}; ${MAKE} clean) ; done
-
