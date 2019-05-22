@@ -11,7 +11,9 @@ DIRS = 	lib \
 	users_groups \
 	proccred \
 	sysinfo \
-	filebuff
+	filebuff \
+	filesys \
+	files
 
 
 BUILD_DIRS = ${DIRS}
