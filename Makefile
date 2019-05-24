@@ -13,7 +13,9 @@ DIRS = 	lib \
 	sysinfo \
 	filebuff \
 	filesys \
-	files
+	files \
+	xattr \
+	acl
 
 
 BUILD_DIRS = ${DIRS}
