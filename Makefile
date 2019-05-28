@@ -15,7 +15,9 @@ DIRS = 	lib \
 	filesys \
 	files \
 	xattr \
-	acl
+	acl \
+	dirs_links \
+	inotify
 
 
 BUILD_DIRS = ${DIRS}
