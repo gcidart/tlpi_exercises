@@ -17,7 +17,8 @@ DIRS = 	lib \
 	xattr \
 	acl \
 	dirs_links \
-	inotify
+	inotify \
+	signals
 
 
 BUILD_DIRS = ${DIRS}
