@@ -18,7 +18,8 @@ DIRS = 	lib \
 	acl \
 	dirs_links \
 	inotify \
-	signals
+	signals \
+    procexec
 
 
 BUILD_DIRS = ${DIRS}
