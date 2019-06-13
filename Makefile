@@ -19,7 +19,8 @@ DIRS = 	lib \
 	dirs_links \
 	inotify \
 	signals \
-    procexec
+    procexec \
+    pipes
 
 
 BUILD_DIRS = ${DIRS}
