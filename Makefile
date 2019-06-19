@@ -21,7 +21,8 @@ DIRS = 	lib \
 	signals \
     procexec \
     pipes \
-    mmap
+    mmap \
+    vmem
 
 
 BUILD_DIRS = ${DIRS}
