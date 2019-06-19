@@ -20,7 +20,8 @@ DIRS = 	lib \
 	inotify \
 	signals \
     procexec \
-    pipes
+    pipes \
+    mmap
 
 
 BUILD_DIRS = ${DIRS}
