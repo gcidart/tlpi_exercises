@@ -24,7 +24,8 @@ DIRS = 	lib \
     mmap \
     vmem \
     pmsg \
-    psem
+    psem \
+    pshm
 
 
 BUILD_DIRS = ${DIRS}
