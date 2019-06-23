@@ -23,7 +23,8 @@ DIRS = 	lib \
     pipes \
     mmap \
     vmem \
-    pmsg
+    pmsg \
+    psem
 
 
 BUILD_DIRS = ${DIRS}
