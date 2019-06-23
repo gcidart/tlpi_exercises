@@ -6,7 +6,7 @@
  * $ ./pmsg_send  /mq msg-b 10
  * $ ./pmsg_receive  /mq 10 &
  * [1] 25722
- * gsiddharth@fanta-VirtualBox:~/tlpi_ex/pmsg$ /mq
+ * $ /mq
  * Read 5 bytes; priority = 10
  * msg-b
  * 

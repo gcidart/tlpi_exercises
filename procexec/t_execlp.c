@@ -7,7 +7,7 @@
  * 
  * $ which echo
  * /bin/echo
- * gsiddharth@fanta-VirtualBox:~/tlpi_ex$ ./procexec/t_execlp echo
+ * $ ./procexec/t_execlp echo
  * hello world
  */
 
