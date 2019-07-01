@@ -25,7 +25,8 @@ DIRS = 	lib \
     vmem \
     pmsg \
     psem \
-    pshm
+    pshm \
+    sockets
 
 
 BUILD_DIRS = ${DIRS}
